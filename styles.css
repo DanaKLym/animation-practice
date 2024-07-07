@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(135deg, #59c173, #a17fe0, #6d3acc);
+  background-attachment: fixed;
+}
+
+h1 {
+  text-align: center;
+  background: linear-gradient(360deg, #54778b, #292e49);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0.5px 5px 3px #01060252;
+}
